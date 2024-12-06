@@ -1,0 +1,9 @@
+Column Name,Format,Definition
+Year,String,Year in which responses were given
+Strata,String,"General demographic category under which responses have been stratified. Age, Education, Race/Ethnicity, Sex, Income, Total Population."
+Strata Name,String,Individual strata within a demographic category.
+Frequency,Number,https://en.wikipedia.org/wiki/Frequency
+Weighted Frequency,Number,https://en.wikipedia.org/wiki/Frequency
+Percent,Number,"Prevalence of adults who were told they had a depressive disorder, given as percent"
+Lower 95% CL,Number,"For explanation of Confidence Interval, see http://en.wikipedia.org/wiki/Confidence_interval"
+Upper 95% CL,Number,"For explanation of Confidence Interval, see http://en.wikipedia.org/wiki/Confidence_interval"
